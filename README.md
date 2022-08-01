@@ -17,17 +17,23 @@ Here are some ideas to get you started:
 Find out more about me:
 
 ⚡ Tech Skills:
+
+
 🚀 Languages
-C  Python JavaScript Java
+
+C | Python | JavaScript | Java
 
 💻 Front-End Technologies
-HTML CSS3 React
+
+HTML | CSS | React
 
 💻 Back-End Technologies & Databases
-Nodejs MongoDB
+
+Nodejs | MongoDB
 
 🧑🏻‍💻 Tools & Platform
-Git VSCode
+
+Git | VSCode
 
 📈 Stats
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul2001singh"  /></a> </p> -->
